@@ -1,0 +1,29 @@
+aiohappyeyeballs @ file:///home/conda/feedstock_root/build_artifacts/aiohappyeyeballs_1741775197943/work
+aiohttp @ file:///Users/runner/miniforge3/conda-bld/aiohttp_1745255747865/work
+aiosignal @ file:///home/conda/feedstock_root/build_artifacts/aiosignal_1734342155601/work
+async-timeout @ file:///home/conda/feedstock_root/build_artifacts/async-timeout_1733235340728/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1741918516150/work
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1744783198182/work
+certifi==2025.1.31
+cffi==1.17.1
+charset-normalizer==3.4.1
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+cryptography==44.0.2
+Deprecated==1.2.18
+frozenlist @ file:///Users/runner/miniforge3/conda-bld/frozenlist_1737645306854/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1733211830134/work
+markdown-it-py==3.0.0
+mdurl==0.1.2
+multidict @ file:///Users/runner/miniforge3/conda-bld/multidict_1744972494504/work
+propcache @ file:///Users/runner/miniforge3/conda-bld/propcache_1744524986738/work
+pycparser==2.22
+PyGithub==2.6.1
+PyJWT==2.10.1
+PyNaCl==1.5.0
+requests==2.32.3
+soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1693929250441/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1744302253/work
+urllib3==2.4.0
+wrapt==1.17.2
+yarl @ file:///Users/runner/miniforge3/conda-bld/yarl_1744972515470/work
